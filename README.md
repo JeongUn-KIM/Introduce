@@ -1,9 +1,12 @@
-안녕하세요 저는 김정운입니다.
+:wave: Hello, I'm Jeong un
 
-프랑스어를 전공하여 알제리에서 통번역 및 물류담당자로 1년간 근무했으며 
+***
 
-현재는 4차산업시대에 도태되지 않기위해 열심히 프로그래밍을 맛보고 있습니다.
+:heartpulse:  francais, english, korean
 
-자바 너무 어렵지만 열심히 복습해서 좋은 개발자가 될 수 있도록 하겠습니다.
+:dizzy_face:  ​Just started programming
 
-화이팅 :)
+:mag_right: currently learning : Java​, git, github
+
+:mailbox_with_no_mail: how to reach me :  jjyju1344@gmail.com​
+
