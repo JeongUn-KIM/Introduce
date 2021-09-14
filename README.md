@@ -16,5 +16,4 @@
 
 :mailbox_with_no_mail: how to reach me :  jjyju1344@gmail.com
 
-:bookmark_tabs: [my blog](https://blog.naver.com/jjyju1344)
 
